@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article."
+title: "Spondias mombin leaf extract: antibacterial activity and toxicity - data and analysis code"
+authors:
+  - family-names: Adeyemi
+    given-names: David K.
+  - family-names: Orojuekun
+    given-names: David B.
+  - family-names: Abdullahi
+    given-names: Abubakar S.
+    orcid: "https://orcid.org/0000-0002-3896-3844"
+  - family-names: Adeluola
+    given-names: Adebowale O.
+  - family-names: Johnson
+    given-names: Oluwatosin O.
+  - family-names: Ologunagba
+    given-names: Modupe O.
+  - family-names: Ishola
+    given-names: Ismail O.
+  - family-names: Abdulrahman
+    given-names: Usman
+  - family-names: Chijioke
+    given-names: Micah C.
+  - family-names: Ayoola
+    given-names: Gloria A.
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-14"
